@@ -1,0 +1,15 @@
+{
+  "ver": "2.0.14",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "dc23a7c8-4497-4168-9d28-9ec6caaabe3a",
+  "files": [
+    ".js",
+    ".trans"
+  ],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/resources/scenes/start/hud/UILayout_Common_HUD.js"
+  }
+}
